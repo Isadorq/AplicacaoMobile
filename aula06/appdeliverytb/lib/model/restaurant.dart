@@ -4,8 +4,6 @@
 
 import 'package:appdeliverytb/model/dish.dart';
 
-import 'dish.dart';
-
 class Restaurant {
   String id;
   String imagePath;
